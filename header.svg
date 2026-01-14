@@ -1,0 +1,56 @@
+<svg width="900" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Mona kecil — Reality is a canvas, and dreamers hold the brush.</title>
+  <desc id="desc">Matcha-toned abstract banner with a subtle grid and the quote.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="40%" stop-color="#022c22"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <linearGradient id="orb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#bbf7d0"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="900" height="260" rx="24" fill="url(#bg)"/>
+
+  <!-- subtle grid -->
+  <g stroke="#0f172a" stroke-width="0.5" opacity="0.45">
+    <line x1="120" y1="24" x2="120" y2="236"/>
+    <line x1="240" y1="24" x2="240" y2="236"/>
+    <line x1="360" y1="24" x2="360" y2="236"/>
+    <line x1="480" y1="24" x2="480" y2="236"/>
+    <line x1="600" y1="24" x2="600" y2="236"/>
+    <line x1="720" y1="24" x2="720" y2="236"/>
+    <line x1="60"  y1="80"  x2="840" y2="80"/>
+    <line x1="60"  y1="140" x2="840" y2="140"/>
+    <line x1="60"  y1="200" x2="840" y2="200"/>
+  </g>
+
+  <!-- matcha orb -->
+  <circle cx="150" cy="130" r="68" fill="none" stroke="url(#orb)" stroke-width="2"/>
+  <circle cx="150" cy="130" r="38" fill="url(#orb)" opacity="0.14"/>
+  <line x1="112" y1="130" x2="188" y2="130" stroke="#bbf7d0" stroke-width="1" opacity="0.8"/>
+
+  <!-- name -->
+  <text x="248" y="88" fill="#a7f3d0" font-size="13" letter-spacing="4" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', ui-sans-serif, sans-serif">
+    MONA KECIL
+  </text>
+
+  <!-- quote -->
+  <text x="248" y="138" fill="#ecfdf5" font-size="24" letter-spacing="1.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace">
+    reality is a canvas,
+  </text>
+  <text x="248" y="172" fill="#ecfdf5" font-size="24" letter-spacing="1.5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace">
+    and dreamers hold the brush.
+  </text>
+
+  <!-- stack -->
+  <text x="248" y="208" fill="#6ee7b7" font-size="12" letter-spacing="3" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'SF Pro Text', ui-sans-serif, sans-serif" opacity="0.9">
+    TYPESCRIPT · REACT · CONVEX · AI SDK
+  </text>
+</svg>
