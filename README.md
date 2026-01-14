@@ -17,7 +17,7 @@ name: Michael
 location: Indonesia
 current_focus:
   - playful tools with TypeScript
-  - accelerating human workflows with AI
+  - building interfaces where UX leads and AI quietly falls into place
 brewing: matcha, ideas, tiny experiments
 ```
 
