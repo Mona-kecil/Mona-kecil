@@ -10,14 +10,7 @@
 
 ---
 
-> Reality is a canvas,  
-> and dreamers hold the brush.
-
-<br />
-
-<h3 align="right">now</h3>
-
-<div align="right">
+### now
 
 ```yaml
 name: Mona
@@ -28,8 +21,6 @@ current_focus:
 brewing: matcha, ideas, tiny experiments
 ```
 
-</div>
-
 ---
 
 ### stack
@@ -39,29 +30,18 @@ TypeScript   · React
 Convex       · AI SDK
 ```
 
-I like building small, dreamy interfaces where AI feels like a quiet collaborator  
-—not the main character.
-
 ---
 
-### small garden of projects
+### projects
 
 - **[bud](https://github.com/Mona-kecil/bud)**  
-  🌱 a seedling – tiny experiments growing into something useful
+  🌱 Expense tracker app — budget creation, transactions, with a roadmap for bank integration
 
 - **[experimental-bincang](https://github.com/Mona-kecil/experimental-bincang)**  
-  💬 conversations as a playground for language + interfaces
-
----
-
-### matcha / meta
-
-- 🍵 matcha > coffee
-- 💙 TypeScript is my matcha – I reach for it first
-- 🌀 I like interfaces that feel more like atmospheres than dashboards
+  💬 Conversational app built with Next.js, Convex, and Clerk auth
 
 ---
 
 ### elsewhere
 
-↳ [kecil.dev](https://kecil.dev) · [x.com/2045humanoid](https://x.com/2045humanoid) · [linkedin.com/in/mona-kecil](https://linkedin.com/in/mona-kecil)
+[Personal Site](https://kecil.dev) · [Twitter](https://x.com/2045humanoid) · [LinkedIn](https://linkedin.com/in/mona-kecil)
