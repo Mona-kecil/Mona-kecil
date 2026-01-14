@@ -13,11 +13,11 @@
 ### now
 
 ```yaml
-name: Mona
-location: somewhere on earth
+name: Michael
+location: Indonesia
 current_focus:
   - playful tools with TypeScript
-  - ambient interfaces for humans + AI
+  - accelerating human workflows with AI
 brewing: matcha, ideas, tiny experiments
 ```
 
@@ -32,13 +32,13 @@ Convex       · AI SDK
 
 ---
 
-### projects
+### notable projects
 
-- **[bud](https://github.com/Mona-kecil/bud)**  
-  🌱 Expense tracker app — budget creation, transactions, with a roadmap for bank integration
+- **[bud](https://bud.kecil.dev)**  
+  🌱 Expense tracker — manage budgets and transactions with a clean interface
 
-- **[experimental-bincang](https://github.com/Mona-kecil/experimental-bincang)**  
-  💬 Conversational app built with Next.js, Convex, and Clerk auth
+- **[bincang](https://bincang.kecil.dev)**  
+  💬 LLM aggregator — chat with multiple AI models in one place
 
 ---
 
