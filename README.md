@@ -1,47 +1,10 @@
-<p align="center">
-  <img src="./header.svg" alt="Reality is a canvas, and dreamers hold the brush." width="100%" />
-</p>
+# Michael
 
-<p align="center">
-  <sub>
-    reality engineer · typescript / react / convex / ai-sdk · matcha in hand
-  </sub>
-</p>
+Software engineer in Jakarta, Indonesia. I build web products with TypeScript and React.
 
----
+## Selected projects
 
-### now
+- [bud](https://bud.kecil.dev) — Expense tracker for managing budgets and transactions.
+- [bincang](https://bincang.kecil.dev) — LLM aggregator for chatting with multiple AI models in one place.
 
-```yaml
-name: Michael
-location: Indonesia
-current_focus:
-  - playful tools with TypeScript
-  - building interfaces where UX leads and AI quietly falls into place
-brewing: matcha, ideas, tiny experiments
-```
-
----
-
-### stack
-
-```text
-TypeScript   · React
-Convex       · AI SDK
-```
-
----
-
-### notable projects
-
-- **[bud](https://bud.kecil.dev)**  
-  🌱 Expense tracker — manage budgets and transactions with a clean interface
-
-- **[bincang](https://bincang.kecil.dev)**  
-  💬 LLM aggregator — chat with multiple AI models in one place
-
----
-
-### elsewhere
-
-[Personal Site](https://kecil.dev) · [Twitter](https://x.com/2045humanoid) · [LinkedIn](https://linkedin.com/in/mona-kecil)
+[Website](https://kecil.dev) · [X](https://x.com/2045humanoid) · [LinkedIn](https://linkedin.com/in/mona-kecil)
