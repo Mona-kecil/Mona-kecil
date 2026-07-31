@@ -8,7 +8,7 @@ I build small tools when something bothers me enough. Some become useful; others
 
 ### [vibe-idx](https://github.com/Mona-kecil/vibe-idx)
 
-I built a terminal to screen every IHSG ticker at the end of each trading day. It cut the process from 2–3 hours to under an hour. I archived it after moving my focus away from the stock market.
+I built a local stock-screening dashboard for the Indonesian market. It cut my end-of-day screening process from 2–3 hours to under an hour. I archived it after moving my focus away from the stock market.
 
 ### [bud](https://github.com/Mona-kecil/bud)
 
