@@ -4,6 +4,8 @@ Software engineer based in Jakarta, Indonesia.
 
 I build small tools when something bothers me enough. Some become useful; others answer a question and get archived. I’d rather test an idea than keep wondering whether it works.
 
+![A tired little builder surrounded by prototypes: one broken, one smoking, and one finally working.](./assets/funny-doodle.png)
+
 ## Things I’ve built
 
 ### [vibe-idx](https://github.com/Mona-kecil/vibe-idx)
