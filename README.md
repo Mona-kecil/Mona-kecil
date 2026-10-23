@@ -1,27 +1,41 @@
 # Michael
 
-Software engineer based in Jakarta, Indonesia.
+I build web apps, API integrations, and automation tools. Based in Jakarta, Indonesia.
 
-I build small tools when something bothers me enough. Some become useful; others answer a question and get archived. I’d rather test an idea than keep wondering whether it works.
+Open to paid freelance projects and agency collaborations. I work with TypeScript, React, Next.js, SvelteKit, and Convex.
 
-<p align="center">
-  <img src="./assets/funny-doodle-soft-background.png" width="560" alt="A tired little builder surrounded by prototypes: one broken, one smoking, and one finally working.">
-</p>
+## Selected projects
 
-## Things I’ve built
+These are personal projects with code or an app you can explore.
 
-### [vibe-idx](https://github.com/Mona-kecil/vibe-idx)
+### [Antre](https://github.com/Mona-kecil/antre)
 
-I built a local stock-screening dashboard for the Indonesian market. It cut my end-of-day screening process from 2–3 hours to under an hour. I archived it after moving my focus away from the stock market.
+A publishing console for Threads and LinkedIn with OAuth connections, draft review, scheduling, and MCP tools for AI agents.
 
-### [bud](https://github.com/Mona-kecil/bud)
+SvelteKit, TypeScript, and Convex. The repository includes setup instructions and workflow details.
 
-I tried replacing my finance spreadsheet with a web app I could access from any device. It technically worked, but filling out forms was tedious and the mobile experience wasn’t good enough to keep using. If I revisit it, input should happen through tools I already use like email, WhatsApp, Discord, or Telegram.
+### [Fud](https://fud-beta.vercel.app)
 
-## Other experiments
+An expense tracker that turns bank emails into transactions and a monthly record of money in and money out. It builds on my earlier finance-tracker work in Bud.
 
-- **[E-Reader](https://github.com/Mona-kecil/E-Reader).** I started building a local e-reader with a client-server architecture, then found Readest, an open-source reader that already did what I wanted, including syncing across devices. I stopped before building the UI.
-- **[chat-read](https://github.com/Mona-kecil/chat-read).** I thought WhatsApp was easier to read because of the format. Turns out I was wrong. WhatsApp is interesting when the gossip is good. A book is still hard to read even when it’s split into small chat bubbles.
-- **[agent-worktree](https://github.com/Mona-kecil/agent-worktree).** I made a small CLI to create Git worktrees and copy environment files in one go so AI agents could use it directly. The agents weren’t very reliable at invoking it. Then the Codex app automated worktree setup anyway, so I stopped.
+The app requires Google sign-in. Source code is private.
 
-[X](https://x.com/2045humanoid) · [LinkedIn](https://www.linkedin.com/in/mona-kecil) · [Threads](https://www.threads.com/@monosodiums)
+### [Site of Interest](https://github.com/Mona-kecil/site-of-interest)
+
+A stock research dashboard with screening, ownership networks, and measurements traced to their source data. It uses a stored research snapshot.
+
+React, TypeScript, and Convex. [Explore the demo](https://site-of-interest.vercel.app).
+
+### [Daywell](https://github.com/Mona-kecil/daywell)
+
+A personal tracker for workouts, water, and meals, with sign-in and per-user data.
+
+Next.js, React, TypeScript, and Convex.
+
+## Work with me
+
+I can help with dashboards, frontend features, API integrations, and internal tools. Send me the workflow you need to build or the problem you need to fix.
+
+[Contact me on LinkedIn](https://www.linkedin.com/in/mona-kecil/)
+
+I'm studying Computer Science at BINUS University, with graduation expected in 2027.
