@@ -26,12 +26,6 @@ A stock research dashboard with screening, ownership networks, and measurements 
 
 React, TypeScript, and Convex. [Explore the demo](https://site-of-interest.vercel.app).
 
-### [Daywell](https://github.com/Mona-kecil/daywell)
-
-A personal tracker for workouts, water, and meals, with sign-in and per-user data.
-
-Next.js, React, TypeScript, and Convex.
-
 ## Work with me
 
 I can help with dashboards, frontend features, API integrations, and internal tools. Send me the workflow you need to build or the problem you need to fix.
